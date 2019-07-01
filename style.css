@@ -1,0 +1,27 @@
+body{
+	background: url('https://st.depositphotos.com/1427101/4250/v/950/depositphotos_42501459-stock-illustration-vector-background-from-numbers.jpg') no-repeat right;
+}
+button{
+	width:100px;
+	height: 40px;
+	margin-top: 10px; 
+}
+
+#info, #num{
+	width: 45%;
+	text-align: center;
+}
+.jumbotron {
+    background: url('https://previews.123rf.com/images/iunewind/iunewind1403/iunewind140300100/26576728-numbers-background.jpg') no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    padding: 5em inherit;
+}
+.fact{
+  background-color: lightgrey;
+  width: auto;
+  border: 5px solid black;
+  margin: 20px;
+  height: 35px;
+  color: black;
+}
